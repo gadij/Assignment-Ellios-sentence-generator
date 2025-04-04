@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/gadij/Assignment-Ellios-sentence-generator/static/css/main.a130765f.css",
+    "main.js": "/gadij/Assignment-Ellios-sentence-generator/static/js/main.fcfa8b10.js",
+    "index.html": "/gadij/Assignment-Ellios-sentence-generator/index.html",
+    "main.a130765f.css.map": "/gadij/Assignment-Ellios-sentence-generator/static/css/main.a130765f.css.map",
+    "main.fcfa8b10.js.map": "/gadij/Assignment-Ellios-sentence-generator/static/js/main.fcfa8b10.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a130765f.css",
+    "static/js/main.fcfa8b10.js"
+  ]
+}

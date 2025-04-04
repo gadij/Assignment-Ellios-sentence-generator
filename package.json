@@ -1,0 +1,50 @@
+{
+  "name": "assignment-ellios-sentence-generator",
+  "version": "1.0.0",
+  "description": "Ellios task",
+  "main": "src/index.tsx",
+  "dependencies": {
+    "react": "^19.0.0",
+    "react-dom": "^19.0.0",
+    "react-scripts": "^5.0.0",
+    "@mui/material": "6.4.1",
+    "@mui/joy": "5.0.0-beta.51",
+    "emotion": "11.0.0",
+    "@emotion/styled": "11.14.0",
+    "@emotion/react": "11.14.0"
+  },
+  "devDependencies": {
+    "@types/react": "19.0.0",
+    "@types/react-dom": "19.0.0",
+    "loader-utils": "3.2.1",
+    "typescript": "^4.0.0"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gadij/Assignment-Ellios-sentence-generator.git"
+  },
+  "author": "Gadi J.",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gadij/Assignment-Ellios-sentence-generator/issues"
+  },
+  "homepage": "https://github.com/gadij/Assignment-Ellios-sentence-generator#readme",
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  }
+}
